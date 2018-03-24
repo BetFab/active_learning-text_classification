@@ -1,0 +1,5 @@
+,database,measure,score,iter
+0,pool_init,accuracy,0.9830508474576272,0
+1,pool_init,accuracy,0.9887005649717514,3
+2,pool_init,accuracy,1.0,6
+3,pool_init,accuracy,1.0,9
